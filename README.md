@@ -23,6 +23,9 @@ Our goal was to create an autonomous solution that identifies viable planting sp
 - **Shovel Mount**  
   A flat shovel is installed at the back to assist in lightly disturbing the soil before planting, increasing the chances of seed germination.
 
+- **Custom 3D-Printed Chassis and Dispenser**  
+  Both the robot chassis and the seed dispenser were **custom-designed and fabricated** using 3D printing technology at the **GMU MIX Lab**, allowing us to precisely tailor the hardware to our project goals.
+
 ## 🔧 Tech Stack  
 - **Microcontroller**: Arduino UNO  
 - **Sensors**:  
@@ -32,7 +35,7 @@ Our goal was to create an autonomous solution that identifies viable planting sp
   - 2 x DC Motors (for movement)  
   - Servo Motor (for seed dispensing mechanism)  
 - **Power Source**: Battery Pack  
-- **Chassis**: 2WD Robot Car Frame  
+- **Chassis**: Custom 2WD Robot Car Frame (3D-printed)  
 
 ## 📸 How It Works  
 1. The robot begins navigating a predefined area.  
